@@ -2,6 +2,8 @@
 
 - Text is coming to the screen with typing animation
 - Any amount of the parameter or text can be given to the algorithm
+- It can be used as a companent in any part of page 
+- This code is taken from a template and developed in a way that wanted to be used
 
 
 
